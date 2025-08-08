@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Shadow Run: The Lost Relic
@@ -101,3 +102,7 @@ MIT License (see MIT_LICENSE.txt)
 ---
 
 **For more details, see the comments in each script and the docs/ folder for visual references.**
+=======
+# -ShadowRun-AI-Adventure
+A Unity-based interactive 3D maze game featuring collectibles, a countdown timer, dynamic lighting, and win/lose screens. Built with C# for gameplay mechanics, optimized for smooth performance, and designed to showcase core Unity development skills.
+>>>>>>> daa5c8a435d564da48d44567d61d7711936383cd
